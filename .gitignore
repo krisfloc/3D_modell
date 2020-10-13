@@ -1,3 +1,5 @@
 venv/
 .idea/
 data/Data02.las
+Data18.las
+data18.ply
